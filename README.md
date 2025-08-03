@@ -6,7 +6,7 @@ I'm a Mobile & Network Engineer who loves building impactful apps with **Flutter
 I design sleek, high-performance mobile interfaces while optimizing network systems. <br/>
 Leading **Nodia**, I turn innovative ideas into code, inspired by music 🎶 and a passion for tech.
 
-<a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since your-start-date" /></a>
+<a href="https://wakatime.com/@isina_nej"><img src="https://wakatime.com/badge/user/isina_nej.svg" alt="Total time coded since your-start-date" /></a>
 
 ## Skills and Technologies
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=fff&color=2D79C7)](https://dart.dev/)
