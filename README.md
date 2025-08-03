@@ -1,5 +1,5 @@
 ## 📖 Translations
-- [فارسی (Persian)](./docs/README-fa.markdown)
+- [فارسی (Persian)](./README-fa.markdown)
 # 🌌 Hey, I'm Sina — Architect of Immersive Digital Realms  
 
 ![Welcome Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhZmQ3YzE3M2QyOGZiZTg1YzVhNDVhZmM3MDI5M2U2YzA4MjUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)  
