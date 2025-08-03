@@ -1,4 +1,4 @@
-# 🌌 Hey, I'm **Sina** — Architect of Immersive Digital Realms  
+# 🌌 Hey, I'm Sina — Architect of Immersive Digital Realms  
 
 ![Welcome Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhZmQ3YzE3M2QyOGZiZTg1YzVhNDVhZmM3MDI5M2U2YzA4MjUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)  
 
@@ -24,45 +24,19 @@ I'm a trailblazing creator who merges **Flutter**'s elegance with **network engi
 ![Tech Stack Animation](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
 
 ### 💻 Languages  
-[![Dart](https://img.shields.io/badge/Dart-informational?style=flat-square&logo=dart&logoColor=fff&color=0175C2)](https://dart.dev)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=fff&color=3178C6)](https://www.typescriptlang.org)  
-[![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=fff&color=3776AB)](https://www.python.org)  
-[![Rust](https://img.shields.io/badge/Rust-informational?style=flat-square&logo=rust&logoColor=fff&color=000000)](https://www.rust-lang.org)  
-[![Go](https://img.shields.io/badge/Go-informational?style=flat-square&logo=go&logoColor=fff&color=00ADD8)](https://golang.org)  
-[![C++](https://img.shields.io/badge/C++-informational?style=flat-square&logo=cplusplus&logoColor=fff&color=00599C)](https://isocpp.org)  
-[![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity&logoColor=fff&color=363636)](https://soliditylang.org)  
+[![Dart](https://img.shields.io/badge/Dart-informational?style=flat-square&logo=dart&logoColor=fff&color=0175C2)](https://dart.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=fff&color=3178C6)](https://www.typescriptlang.org) [![Python](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=fff&color=3776AB)](https://www.python.org) [![Rust](https://img.shields.io/badge/Rust-informational?style=flat-square&logo=rust&logoColor=fff&color=000000)](https://www.rust-lang.org) [![Go](https://img.shields.io/badge/Go-informational?style=flat-square&logo=go&logoColor=fff&color=00ADD8)](https://golang.org) [![C++](https://img.shields.io/badge/C++-informational?style=flat-square&logo=cplusplus&logoColor=fff&color=00599C)](https://isocpp.org) [![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity&logoColor=fff&color=363636)](https://soliditylang.org)  
 
 ### 📱 Frontend & Frameworks  
-[![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=fff&color=02569B)](https://flutter.dev)  
-[![React](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=000&color=61DAFB)](https://react.dev)  
-[![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org)  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat-square&logo=tailwindcss&logoColor=fff&color=06B6D4)](https://tailwindcss.com)  
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-informational?style=flat-square&logo=framer&logoColor=fff&color=0055FF)](https://www.framer.com/motion)  
-[![SvelteKit](https://img.shields.io/badge/SvelteKit-informational?style=flat-square&logo=svelte&logoColor=fff&color=FF3E00)](https://kit.svelte.dev)  
-[![Three.js](https://img.shields.io/badge/Three.js-informational?style=flat-square&logo=three.js&logoColor=fff&color=000000)](https://threejs.org)  
+[![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat-square&logo=flutter&logoColor=fff&color=02569B)](https://flutter.dev) [![React](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=000&color=61DAFB)](https://react.dev) [![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js&logoColor=fff&color=000000)](https://nextjs.org) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat-square&logo=tailwindcss&logoColor=fff&color=06B6D4)](https://tailwindcss.com) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-informational?style=flat-square&logo=framer&logoColor=fff&color=0055FF)](https://www.framer.com/motion) [![SvelteKit](https://img.shields.io/badge/SvelteKit-informational?style=flat-square&logo=svelte&logoColor=fff&color=FF3E00)](https://kit.svelte.dev) [![Three.js](https://img.shields.io/badge/Three.js-informational?style=flat-square&logo=three.js&logoColor=fff&color=000000)](https://threejs.org)  
 
 ### 🖥️ Backend & Infrastructure  
-[![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=fff&color=339933)](https://nodejs.org)  
-[![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=fff&color=E10098)](https://graphql.org)  
-[![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat-square&logo=fastapi&logoColor=fff&color=009688)](https://fastapi.tiangolo.com)  
-[![Django](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=fff&color=092E20)](https://www.djangoproject.com)  
-[![Docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=fff&color=2496ED)](https://www.docker.com)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=fff&color=326CE5)](https://kubernetes.io)  
-[![Mikrotik](https://img.shields.io/badge/Mikrotik-informational?style=flat-square&color=FF6600)](https://mikrotik.com)  
+[![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=fff&color=339933)](https://nodejs.org) [![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat-square&logo=graphql&logoColor=fff&color=E10098)](https://graphql.org) [![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat-square&logo=fastapi&logoColor=fff&color=009688)](https://fastapi.tiangolo.com) [![Django](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=fff&color=092E20)](https://www.djangoproject.com) [![Docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=fff&color=2496ED)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=fff&color=326CE5)](https://kubernetes.io) [![Mikrotik](https://img.shields.io/badge/Mikrotik-informational?style=flat-square&color=FF6600)](https://mikrotik.com)  
 
 ### 🤖 AI & Web3  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=fff&color=FF6F00)](https://www.tensorflow.org)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat-square&logo=pytorch&logoColor=fff&color=EE4C2C)](https://pytorch.org)  
-[![Web3.js](https://img.shields.io/badge/Web3.js-informational?style=flat-square&logo=web3.js&logoColor=fff&color=F16822)](https://web3js.org)  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-informational?style=flat-square&logo=huggingface&logoColor=fff&color=F9AB00)](https://huggingface.co)  
-[![LangChain](https://img.shields.io/badge/LangChain-informational?style=flat-square&color=000000)](https://langchain.com)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=fff&color=FF6F00)](https://www.tensorflow.org) [![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat-square&logo=pytorch&logoColor=fff&color=EE4C2C)](https://pytorch.org) [![Web3.js](https://img.shields.io/badge/Web3.js-informational?style=flat-square&logo=web3.js&logoColor=fff&color=F16822)](https://web3js.org) [![HuggingFace](https://img.shields.io/badge/HuggingFace-informational?style=flat-square&logo=huggingface&logoColor=fff&color=F9AB00)](https://huggingface.co) [[LangChain](https://img.shields.io/badge/LangChain-informational?style=flat-square&color=000000)](https://langchain.com)  
 
 ### 🎨 Design & Motion  
-[![Figma](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=fff&color=F24E1E)](https://www.figma.com)  
-[![Spline](https://img.shields.io/badge/Spline-informational?style=flat-square&color=000000)](https://spline.design)  
-[![Lottie](https://img.shields.io/badge/Lottie-informational?style=flat-square&color=00C4B4)](https://lottiefiles.com)  
-[![Blender](https://img.shields.io/badge/Blender-informational?style=flat-square&logo=blender&logoColor=fff&color=F5792A)](https://www.blender.org)  
-[![Adobe After Effects](https://img.shields.io/badge/After_Effects-informational?style=flat-square&logo=adobe-after-effects&logoColor=fff&color=9999FF)](https://www.adobe.com/products/aftereffects.html)  
+[![Figma](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=fff&color=F24E1E)](https://www.figma.com) [[Spline](https://img.shields.io/badge/Spline-informational?style=flat-square&color=000000)](https://spline.design) [[Lottie](https://img.shields.io/badge/Lottie-informational?style=flat-square&color=00C4B4)](https://lottiefiles.com) [[Blender](https://img.shields.io/badge/Blender-informational?style=flat-square&logo=blender&logoColor=fff&color=F5792A)](https://www.blender.org) [[Adobe After Effects](https://img.shields.io/badge/After_Effects-informational?style=flat-square&logo=adobe-after-effects&logoColor=fff&color=9999FF)](https://www.adobe.com/products/aftereffects.html)  
 
 ---
 
