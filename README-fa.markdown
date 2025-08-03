@@ -1,5 +1,5 @@
 <DOCUMENT filename="README-fa.markdown">
-# 🌌 سلام، من سینا هستم — معمار قلمروهای دیجیتال فراگیر  
+## 🌌 سلام، من سینا هستم — معمار قلمروهای دیجیتال فراگیر  
 
 ![انیمیشن خوش‌آمدگویی](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhZmQ3YzE3M2QyOGZiZTg1YzVhNDVhZmM3MDI5M2U2YzA4MjUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)  
 
