@@ -6,7 +6,7 @@ I'm a visionary developer who fuses cutting-edge **Flutter** and **React** exper
 
 🎧 Fueled by synthwave beats and artisanal coffee, I lead **Nodia**, where we redefine digital experiences with **AI-driven animations**, **Web3 integrations**, and **real-time interactivity**. My mission? To craft immersive, user-centric apps that resonate across platforms.  
 
-[![Wakatime](https://wakatime.com/badge/user/isina_nej.svg)](https://wakatime.com/@isina_nej)  
+<a href="https://wakatime.com/@isina_nej"><img src="https://wakatime.com/badge/user/isina_nej.svg" alt="Total time coded since Dec 14 2020" /></a>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/isina-nej)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/isina-nej)  
 
