@@ -21,19 +21,14 @@ With expertise in Flutter, React, and backend technologies, I focus on creating 
 I build robust, scalable systems using a wide range of modern technologies. Here's a breakdown of my core skills:
 
 ### Languages
-- Dart, TypeScript, Python, Rust, Go, C++, Solidity
+- Dart, TypeScript, Python, Rust, Go, C++, JavaScript
 
 ### Frontend & Frameworks
-- Flutter, React, Next.js, Tailwind CSS, Framer Motion, SvelteKit, Three.js
+- Flutter, React, Next.js, Tailwind CSS, Framer Motion,, Three.js
 
 ### Backend & Infrastructure
-- Node.js, GraphQL, FastAPI, Django, Docker, Kubernetes, MikroTik
+- Node.js, FastAPI, Django, Docker, Kubernetes, MikroTik
 
-### AI & Web3
-- TensorFlow, PyTorch, Web3.js, Hugging Face, LangChain
-
-### Design & Tools
-- Figma, Spline, Lottie, Blender, Adobe After Effects
 
 I prioritize clean, modular code, performance optimization, and best practices in CI/CD and DevOps.
 
@@ -84,4 +79,4 @@ I advocate for inclusive, sustainable design that integrates futuristic elements
 
 I'm passionate about mentoring teams, contributing to open-source, and exploring Web3 and AI innovations. Let's connect to discuss collaboration opportunities!
 
-Contact: [Email me](mailto:your.email@example.com) | Open to freelance and full-time roles in software engineering and leadership.
+Contact: [Email me](mailto:sina.nejadhoseini@gmail.com) | Open to freelance and full-time roles in software engineering and leadership.
