@@ -37,25 +37,26 @@ I prioritize clean, modular code, performance optimization, and best practices i
 ## 🌟 Key Projects & Achievements
 
 Here are some highlights from my portfolio, demonstrating my ability to deliver impactful solutions:
+### FireDNS
+- **Technologies**: Flutter, Node.js, Kotlin, C++, Firebase
+- **Overview**: Developed a cross-platform DNS changer application for Android and Windows, enabling users to customize DNS settings for optimized network performance.
+- **Impact**: Reduces latency by lowering ping times and facilitates bypassing internet restrictions and sanctions, enhancing accessibility in restricted environments. Currently under active development.
+- **Website**: [FireDNS Site](https://fire-dns.ir)
+- **Repository**: [Link to Repo](https://github.com/isina-nej/Firedns)
 
-### Nodia Mobile Suite
-- **Technologies**: Flutter, GraphQL, Spline, Lottie, Web3.js
-- **Overview**: Led development of a cross-platform app with AI personalization, 3D interactions, and Web3 integration. Features include real-time analytics and AR onboarding.
-- **Impact**: Reduced user onboarding time by 50% through dynamic flows and biometric auth, improving user retention and engagement.
-- **Repository**: [Link to Repo](https://github.com/isina-nej/nodia-mobile-suite)
+### Shop
+- **Technologies**: Flutter, Node.js, C++, Firebase
+- **Overview**: Created a versatile cross-platform e-commerce application supporting web, Android, Windows, and Progressive Web App (PWA) deployments from a single unified codebase.
+- **Impact**: Streamlines development by producing four distinct outputs with one code and design base, demonstrating efficient multi-platform engineering. In development.
+- **Live Demo**: [Shop Demo](https://shop.isina-nej.ir)
+- **Repository**: [Link to Repo](https://github.com/isina-nej/shop)
 
-### 3D Portfolio Experience
-- **Technologies**: Next.js, Three.js, Framer Motion, Tailwind CSS
-- **Overview**: Built an interactive WebGL portfolio with 3D models, animations, and blockchain analytics. Optimized for SEO and accessibility.
-- **Impact**: Increased visitor engagement by 75%, providing real-time insights and immersive storytelling.
-- **Live Demo**: [Portfolio Site](https://isina-nej.vercel.app)
-- **Repository**: [Link to Repo](https://github.com/isina-nej/3d-portfolio)
-
-### AI Network Monitor
-- **Technologies**: React, FastAPI, TensorFlow, D3.js, Kubernetes
-- **Overview**: Developed a real-time dashboard for anomaly detection with AI, responsive visualizations, and scalable deployment.
-- **Impact**: Boosted network uptime by 30% via predictive maintenance, saving operational costs.
-- **Repository**: [Link to Repo](https://github.com/isina-nej/ai-network-monitor)
+### RiftShield
+- **Technologies**: Flutter, Node.js, Kotlin, C++, Firebase, Networking
+- **Overview**: Built a comprehensive VPN client featuring multiple server locations and various protocols, with remote configuration capabilities for secure and flexible connectivity.
+- **Impact**: Enhances connection control and internet quality by managing configs remotely and eliminating intermediaries, providing reliable performance in diverse network conditions. Currently in development.
+- **Live Demo**: [RiftShield Demo](https://riftshield.isina-nej.ir)
+- **Repository**: [Link to Repo](https://github.com/isina-nej/riftshield)
 
 These projects showcase my end-to-end development skills, from ideation to deployment, with a focus on measurable results.
 
