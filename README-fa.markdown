@@ -1,4 +1,4 @@
-# 🌌 سینا: معمار تجربیات دیجیتال فراگیر
+# 🌌 سینا: برنامه نویس فول استک با تمرکز روی اپلیکیشن اندروید
 
 ![بنر پروفایل](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhZmQ3YzE3M2QyOGZiZTg1YzVhNDVhZmM3MDI5M2U2YzA4MjUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)
 
