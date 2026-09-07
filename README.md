@@ -1,83 +1,83 @@
-
-# 📖 Translations
-- [فارسی (Persian)](./README-fa.markdown)
-# 🌌 Sina: Architect of Immersive Digital Experiences
-
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhZmQ3YzE3M2QyOGZiZTg1YzVhNDVhZmM3MDI5M2U2YzA4MjUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)
-
-I'm Sina, a seasoned software engineer and leader specializing in mobile development, network engineering, and AI-driven applications. As the founder and lead at Nodia, I drive innovative projects that blend cutting-edge technology with user-centric design to deliver scalable, personalized digital solutions.
-
-With expertise in Flutter, React, and backend technologies, I focus on creating high-performance applications that solve real-world problems and drive business impact.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isina-nej)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2E63?style=flat-square&logo=vercel&logoColor=white)](https://isina-nej.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/isina-nej)
-[![Wakatime](https://wakatime.com/badge/user/isina_nej.svg)](https://wakatime.com/@isina_nej)
-
----
-
-## 🛠️ Technical Expertise
-
-I build robust, scalable systems using a wide range of modern technologies. Here's a breakdown of my core skills:
-
-### Languages
-- Dart, TypeScript, Python, Rust, Go, C++, JavaScript
-
-### Frontend & Frameworks
-- Flutter, React, Next.js, Tailwind CSS, Framer Motion,, Three.js
-
-### Backend & Infrastructure
-- Node.js, FastAPI, Django, Docker, Kubernetes, MikroTik
-
-
-I prioritize clean, modular code, performance optimization, and best practices in CI/CD and DevOps.
-
----
-
-## 🌟 Key Projects & Achievements
-
-Here are some highlights from my portfolio, demonstrating my ability to deliver impactful solutions:
-### FireDNS
-- **Technologies**: Flutter, Node.js, Kotlin, C++, Firebase
-- **Overview**: Developed a cross-platform DNS changer application for Android and Windows, enabling users to customize DNS settings for optimized network performance.
-- **Impact**: Reduces latency by lowering ping times and facilitates bypassing internet restrictions and sanctions, enhancing accessibility in restricted environments. Currently under active development.
-- **Website**: [FireDNS Site](https://fire-dns.ir)
-- **Repository**: [Link to Repo](https://github.com/isina-nej/Firedns)
-
-### Shop
-- **Technologies**: Flutter, Node.js, C++, Firebase
-- **Overview**: Created a versatile cross-platform e-commerce application supporting web, Android, Windows, and Progressive Web App (PWA) deployments from a single unified codebase.
-- **Impact**: Streamlines development by producing four distinct outputs with one code and design base, demonstrating efficient multi-platform engineering. In development.
-- **Live Demo**: [Shop Demo](https://shop.isina-nej.ir)
-- **Repository**: [Link to Repo](https://github.com/isina-nej/shop)
-
-### RiftShield
-- **Technologies**: Flutter, Node.js, Kotlin, C++, Firebase, Networking
-- **Overview**: Built a comprehensive VPN client featuring multiple server locations and various protocols, with remote configuration capabilities for secure and flexible connectivity.
-- **Impact**: Enhances connection control and internet quality by managing configs remotely and eliminating intermediaries, providing reliable performance in diverse network conditions. Currently in development.
-- **Live Demo**: [RiftShield Demo](https://riftshield.isina-nej.ir)
-- **Repository**: [Link to Repo](https://github.com/isina-nej/riftshield)
-
-These projects showcase my end-to-end development skills, from ideation to deployment, with a focus on measurable results.
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isina-nej&show_icons=true&theme=transparent&hide_border=true&title_color=FF2E63&text_color=FFFFFF&icon_color=FF2E63" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isina-nej&theme=transparent&hide_border=true&background=0D1117&stroke=FF2E63&ring=FF2E63&fire=FF2E63&currStreakNum=FF2E63&sideNums=FF2E63&currStreakLabel=FF2E63&sideLabels=FF2E63" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isina-nej&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=FF2E63&text_color=FFFFFF" alt="Top Languages" height="180"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Sina%20Nejadhoseini&fontSize=38&fontColor=ffffff&desc=Flutter%20%E2%80%A2%20Network%20%E2%80%A2%20AI%20Tooling&descAlignY=70&descAlign=50" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Pishro+%E2%80%94+LMS+%2B+Investment+Platform;Flutter+%2F+Next.js+%2F+Python+%2F+Rust;Network+engineer+who+ships;Ahwaz+%E2%80%94+Nodia" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://isina-nej.ir"><img src="https://img.shields.io/badge/portfolio-isina--nej.ir-0f172a?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isina-nej"><img src="https://img.shields.io/badge/linkedin-isina--nej-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:isina4501@gmail.com"><img src="https://img.shields.io/badge/email-isina4501@gmail.com-111827?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/isina-nej"><img src="https://img.shields.io/github/followers/isina-nej?style=flat&label=follow&color=38bdf8&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=isina-nej&label=visits&color=38bdf8&style=flat" />
+</p>
+
+<sub><a href="./README-fa.markdown">فارسی</a> · <a href="https://isina-nej.vercel.app">Portfolio</a></sub>
+
 </div>
 
-*Note: These reflect public contributions; my professional work often includes private repositories.*
+---
+
+### now
+
+Full-stack engineer @ **Nodia** — shipping real products, not demos. Current focus: **Pishro** (Next.js 15 + Prisma/MySQL — LMS + investment platform, dual auth, RTL) and AI/network tooling around Claude.
+
+42 public repos · 88 followers · Ahwaz, Iran · `hireable`
+
+```ts
+const sina = {
+  role: "Full-stack / Flutter / Network Engineer",
+  company: "Nodia — founder",
+  focus: ["Pishro platform", "Claude MCP tooling", "Flutter network apps"],
+  stack: ["Dart/Flutter", "TypeScript/Next.js", "Python/FastAPI", "Rust/Go", "Docker"],
+  principle: "ship minimal, measure, iterate"
+}
+```
+
+### stack
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,nextjs,react,tailwind,python,fastapi,rust,go,cpp,nodejs,docker,kubernetes,postgres,mysql,git,linux&perline=9" /></a>
+</p>
+
+`Dart` `Flutter` `TypeScript` `Next.js` `React` `Tailwind` `Python` `FastAPI` `Django` `Rust` `Go` `C++` `Node.js` `Docker` `K8s` `MikroTik` `Prisma` `MySQL`
+
+### selected work
+
+| Project | One-liner | Stack | Links |
+|---|---|---|---|
+| **Pishro** `★1` | LMS + investment platform — Next.js 15, Prisma, RTL, production | `TS` `Next.js` `Prisma` `MySQL` | [repo](https://github.com/isina-nej/pishro) |
+| **graphify** `★5` | Any folder → queryable knowledge graph (code + DB + infra) — Claude/Codex/Cursor skill | `Python` | [repo](https://github.com/isina-nej/graphify) |
+| **claude-host-mcp** | Portable MCP server: 24 tools for Claude Desktop (shell/files/git/network) | `Python` `MCP` | [repo](https://github.com/isina-nej/claude-host-mcp) |
+| **claude-gateway-switcher** | One-click Claude gateway switcher | `PowerShell` | [repo](https://github.com/isina-nej/claude-gateway-switcher) |
+| **FireDNS** `★3` | Cross-platform DNS changer (Android/Windows) — lower ping, bypass sanctions | `Dart` `Kotlin` `C++` `Firebase` | [site](https://fire-dns.ir) · [repo](https://github.com/isina-nej/FireDNS) |
+| **NotTik** `★1` | Local notification history for Android | `Dart` `Kotlin` | [repo](https://github.com/isina-nej/NotTik) |
+| **TinkeraRobot** | Telegram bot framework | `Python` | [repo](https://github.com/isina-nej/TinkeraRobot) |
+
+> More: [shop](https://github.com/isina-nej/shop) (multi-platform e-commerce, `★3`), [noobati](https://github.com/isina-nej/noobati) (`★2`), [TimeSlice](https://github.com/isina-nej/TimeSlice) — see [all 42 repos](https://github.com/isina-nej?tab=repositories)
+
+### stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=isina-nej&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=isina-nej&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=cbd5e1&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isina-nej&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isina-nej&theme=tokyonight&utcOffset=3.5" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isina-nej&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=cbd5e1" />
+
+</div>
 
 ---
 
-## 🎨 Design Philosophy
+<div align="center">
 
-I advocate for inclusive, sustainable design that integrates futuristic elements with practical usability. By leveraging AI for personalization and tools like Spline for 3D interfaces, I create experiences that are accessible, engaging, and aligned with emerging trends such as dark mode aesthetics and holographic effects.
+**Open to freelance & remote roles — Flutter / Next.js / Python**
 
-I'm passionate about mentoring teams, contributing to open-source, and exploring Web3 and AI innovations. Let's connect to discuss collaboration opportunities!
+`isina4501@gmail.com` · [isina-nej.ir](https://isina-nej.ir) · [linkedin.com/in/isina-nej](https://linkedin.com/in/isina-nej)
 
-Contact: [Email me](mailto:sina.nejadhoseini@gmail.com) | Open to freelance and full-time roles in software engineering and leadership.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%" />
+
+</div>
