@@ -31,14 +31,6 @@ const sina = {
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,ts,js,nextjs,react,tailwind,python,fastapi,rust,go,cpp,nodejs,docker,kubernetes,postgres,mysql,prisma,git,linux,vercel&perline=10" /></a>
 </p>
 
-<div align="center">
-
-### 🏆
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=isina-nej&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-
-</div>
-
 ### 🐍
 
 <div align="center">
@@ -57,11 +49,11 @@ const sina = {
 
 <div align="center">
 
-<a href="https://github.com/isina-nej/graphify"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=isina-nej&repo=graphify&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" /></a>
-<a href="https://github.com/isina-nej/pishro"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=isina-nej&repo=pishro&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" /></a>
-<br/>
-<a href="https://github.com/isina-nej/claude-host-mcp"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=isina-nej&repo=claude-host-mcp&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" /></a>
-<a href="https://github.com/isina-nej/FireDNS"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=isina-nej&repo=FireDNS&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" /></a>
+<a href="https://github.com/isina-nej/graphify"><img src="https://img.shields.io/github/stars/isina-nej/graphify?style=flat&label=graphify&labelColor=020617&color=38bdf8" /></a>
+<a href="https://github.com/isina-nej/pishro"><img src="https://img.shields.io/github/stars/isina-nej/pishro?style=flat&label=pishro&labelColor=020617&color=38bdf8" /></a>
+<a href="https://github.com/isina-nej/FireDNS"><img src="https://img.shields.io/github/stars/isina-nej/FireDNS?style=flat&label=FireDNS&labelColor=020617&color=38bdf8" /></a>
+<a href="https://github.com/isina-nej/shop"><img src="https://img.shields.io/github/stars/isina-nej/shop?style=flat&label=shop&labelColor=020617&color=38bdf8" /></a>
+<a href="https://github.com/isina-nej/claude-host-mcp"><img src="https://img.shields.io/github/stars/isina-nej/claude-host-mcp?style=flat&label=claude-host-mcp&labelColor=020617&color=38bdf8" /></a>
 
 </div>
 
@@ -72,12 +64,22 @@ const sina = {
 | **claude-host-mcp** | سرور MCP پرتابل — ۲۴ ابزار Claude Desktop | `Python` `MCP` |
 | **FireDNS** `★3` | DNS changer — کاهش پینگ، عبور تحریم → [fire-dns.ir](https://fire-dns.ir) | `Dart` `Kotlin` `C++` |
 
+### 📊
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isina-nej&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&locale=fa" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isina-nej&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=38bdf8&text_color=cbd5e1&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isina-nej&theme=tokyonight" />
+<img height="170" src="https://streak-stats.demolab.com?user=isina-nej&theme=tokyonight&hide_border=true&background=020617&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=cbd5e1&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isina-nej&theme=tokyo-night&hide_border=true&bg_color=020617&color=38bdf8&line=38bdf8&point=cbd5e1&area=true&area_color=38bdf8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isina-nej&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isina-nej&theme=tokyonight" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isina-nej&theme=tokyonight&utcOffset=3.5" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isina-nej&theme=tokyonight" />
+
+<br/>
+
+<img width="100%" src="https://ghchart.rshah.org/38bdf8/isina-nej" alt="contributions" />
 
 </div>
 
